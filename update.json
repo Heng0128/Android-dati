@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
   "versionCode": 1,
-  "downloadUrl": "https://your-server.com/app-debug.apk",
-  "releaseNotes": "- 初始版本发布\n- 支持9个项目220道题目\n- 支持单选、多选、填空、判断四种题型\n- 支持答题模式和记忆模式\n- 支持卡片视图和列表视图",
+  "downloadUrl": "https://Heng0128.github.io/Android-dati/app-debug.apk",
+  "releaseNotes": "- 初始版本发布\n- 支持9个项目220道题目\n- 支持单选、多选、填空、判断四种题型\n- 支持答题模式和记忆模式\n- 支持卡片视图和列表视图\n- 新增代码块显示功能\n- 新增版本更新功能",
   "forceUpdate": false,
-  "fileSize": "15 MB",
+  "fileSize": "3.9 MB",
   "minVersion": "1.0.0"
 }
